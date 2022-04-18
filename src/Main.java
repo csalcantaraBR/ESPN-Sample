@@ -16,7 +16,7 @@ public class Main {
 		System. out. println(Step2);
 		String Step3 = Find.player("Neymar");
 		System. out. println(Step3);
-		String Step4 = Find.sport("c.s.alcantara@hotmail.com","Accenture@2022","Lakers");
+		String Step4 = Find.sport("teste@hotmail.com","teste@2022","Lakers");
 		System. out. println(Step4);
 	}
 	
