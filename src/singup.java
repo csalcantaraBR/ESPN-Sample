@@ -11,6 +11,7 @@ public class singup {
 	public static String singup(String firstnameIn , String lastnameIn, String emailIn, String pwIn, boolean checkboxIn) throws InterruptedException{
 	    
 		// TODO Auto-generated method stub
+		
 				Screen s = new Screen();
 				System.setProperty("webdriver.chrome.driver", "..\\ESPN-DEMO\\Libs\\chromedriver.exe");
 				WebDriver driver = new ChromeDriver();
